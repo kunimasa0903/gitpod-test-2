@@ -1,4 +1,4 @@
-# gitpod-test-2
+# gitpod-test-2-kunimasa
 
 > My gnarly Nuxt.js project
 
