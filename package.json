@@ -8,7 +8,9 @@
     "dev": "nuxt --hostname 0.0.0.0",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "git" : "git add . && git commit -m",
+    "postgit":"git push origin master"
   },
   "dependencies": {
     "@nuxtjs/vuetify": "0.5.5",
