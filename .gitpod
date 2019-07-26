@@ -1,0 +1,7 @@
+ports:
+  - port: 3000
+    protocol: "https"
+tasks:
+  - command: >
+        yarn install &&
+        yarn dev
