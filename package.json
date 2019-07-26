@@ -9,7 +9,7 @@
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
-    "git" : "git add . && git commit -m",
+    "git" : "git commit -am",
     "postgit":"git push origin master"
   },
   "dependencies": {
